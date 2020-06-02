@@ -8,3 +8,5 @@ is open source, and is included in the download. If you do add to this and publi
 my github repo. 
 
 This was created using Unity 2019.3.4f1 and uploaded on 6/2/2020. 
+
+(For WebGL make sure to use a local webserver)
